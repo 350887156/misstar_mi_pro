@@ -1,0 +1,12 @@
+ss.lua 替换路径为
+/etc/misstar/lua
+
+ss.tpl 替换路径为
+/etc/misstar/wwwroot/views
+
+ss 替换路径为
+/etc/misstar/applications/ss/script
+
+剩余6个文件替换路径为
+/etc/misstar/applications/ss/bin
+
